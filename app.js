@@ -1,6 +1,16 @@
+let name = "John Smith";
+
+if( name = "John Smith") {
+    alert("Sveiki John Smith");
+} else {
+    alert(Sveiki);
+}
+
+
 let p = document.getElementbyId('p');
 
 let btn = document.getElementbyId('btn');
+
 
 
 function funk() {
@@ -14,4 +24,5 @@ let user = {
 }
 
 alert(user.firstname);
+
 
